@@ -1,0 +1,17 @@
+F:\Cursos\udemy\asp net core 5 and react\demo\NetChat\Application\bin\Debug\net5.0\Application.deps.json
+F:\Cursos\udemy\asp net core 5 and react\demo\NetChat\Application\bin\Debug\net5.0\Application.dll
+F:\Cursos\udemy\asp net core 5 and react\demo\NetChat\Application\bin\Debug\net5.0\ref\Application.dll
+F:\Cursos\udemy\asp net core 5 and react\demo\NetChat\Application\bin\Debug\net5.0\Application.pdb
+F:\Cursos\udemy\asp net core 5 and react\demo\NetChat\Application\bin\Debug\net5.0\Domain.dll
+F:\Cursos\udemy\asp net core 5 and react\demo\NetChat\Application\bin\Debug\net5.0\Persistence.dll
+F:\Cursos\udemy\asp net core 5 and react\demo\NetChat\Application\bin\Debug\net5.0\Domain.pdb
+F:\Cursos\udemy\asp net core 5 and react\demo\NetChat\Application\bin\Debug\net5.0\Persistence.pdb
+F:\Cursos\udemy\asp net core 5 and react\demo\NetChat\Application\obj\Debug\net5.0\Application.csproj.AssemblyReference.cache
+F:\Cursos\udemy\asp net core 5 and react\demo\NetChat\Application\obj\Debug\net5.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+F:\Cursos\udemy\asp net core 5 and react\demo\NetChat\Application\obj\Debug\net5.0\Application.AssemblyInfoInputs.cache
+F:\Cursos\udemy\asp net core 5 and react\demo\NetChat\Application\obj\Debug\net5.0\Application.AssemblyInfo.cs
+F:\Cursos\udemy\asp net core 5 and react\demo\NetChat\Application\obj\Debug\net5.0\Application.csproj.CoreCompileInputs.cache
+F:\Cursos\udemy\asp net core 5 and react\demo\NetChat\Application\obj\Debug\net5.0\Application.csproj.CopyComplete
+F:\Cursos\udemy\asp net core 5 and react\demo\NetChat\Application\obj\Debug\net5.0\Application.dll
+F:\Cursos\udemy\asp net core 5 and react\demo\NetChat\Application\obj\Debug\net5.0\ref\Application.dll
+F:\Cursos\udemy\asp net core 5 and react\demo\NetChat\Application\obj\Debug\net5.0\Application.pdb

@@ -1,0 +1,12 @@
+F:\Cursos\udemy\asp net core 5 and react\demo\NetChat\Domain\bin\Debug\net5.0\Domain.deps.json
+F:\Cursos\udemy\asp net core 5 and react\demo\NetChat\Domain\bin\Debug\net5.0\Domain.dll
+F:\Cursos\udemy\asp net core 5 and react\demo\NetChat\Domain\bin\Debug\net5.0\ref\Domain.dll
+F:\Cursos\udemy\asp net core 5 and react\demo\NetChat\Domain\bin\Debug\net5.0\Domain.pdb
+F:\Cursos\udemy\asp net core 5 and react\demo\NetChat\Domain\obj\Debug\net5.0\Domain.csproj.AssemblyReference.cache
+F:\Cursos\udemy\asp net core 5 and react\demo\NetChat\Domain\obj\Debug\net5.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\Cursos\udemy\asp net core 5 and react\demo\NetChat\Domain\obj\Debug\net5.0\Domain.AssemblyInfoInputs.cache
+F:\Cursos\udemy\asp net core 5 and react\demo\NetChat\Domain\obj\Debug\net5.0\Domain.AssemblyInfo.cs
+F:\Cursos\udemy\asp net core 5 and react\demo\NetChat\Domain\obj\Debug\net5.0\Domain.csproj.CoreCompileInputs.cache
+F:\Cursos\udemy\asp net core 5 and react\demo\NetChat\Domain\obj\Debug\net5.0\Domain.dll
+F:\Cursos\udemy\asp net core 5 and react\demo\NetChat\Domain\obj\Debug\net5.0\ref\Domain.dll
+F:\Cursos\udemy\asp net core 5 and react\demo\NetChat\Domain\obj\Debug\net5.0\Domain.pdb
